@@ -1,3 +1,4 @@
 Hello!
 I'll be a Regular student of 42 Tokyo.
 This is a text file.
+Bye!
