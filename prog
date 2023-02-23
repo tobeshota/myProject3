@@ -1,4 +1,5 @@
 #!/bin/bash
 
+echo "Your name?"; read name
 echo "Your age?"; read age
-echo "Your age is $age."
+echo "Your are $name, $age years old."
